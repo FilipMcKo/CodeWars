@@ -1,32 +1,64 @@
 package CodeWars;
 
 import java.util.Arrays;
+import java.util.function.Function;
+import java.util.function.Predicate;
+import java.util.stream.Stream;
 
 public class SudokuValidator {
     static boolean[][] boolArr;
+
     public static boolean check(int[][] sudoku) {
-        boolArr =new boolean[27][9];
-        for (int i = 0; i <9 ; i++) {
-            for (int j = 0; j < 9; j++) {
-                boolArr[i][sudoku[i][j]-1] = true;
+        for (int i = 0; i < sudoku.length; i++) {
+            for (int j = 0; j < sudoku[0].length; j++) {
+                if(sudoku[i][j] == 0) return false;
             }
         }
 
-        for (int i = 0; i <9 ; i++) {
+        boolArr = new boolean[27][9];
+        for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
-                boolArr[i+9][sudoku[j][i]-1] = true;
+                boolArr[i][sudoku[i][j] - 1] = true;
             }
         }
-/*    TODO
-        9 osobnych tablic - malych*/
-        System.out.println(Arrays.deepToString(boolArr));
+
+        for (int i = 0; i < 9; i++) {
+            for (int j = 0; j < 9; j++) {
+                boolArr[i + 9][sudoku[j][i] - 1] = true;
+            }
+        }
+
+        for (int k = 0; k < 3; k++) {
+            for (int i = 0; i < 3; i++) {
+                for (int j = 0; j < 3; j++) {
+                    boolArr[18+k][sudoku[i][j+3*k]-1] = true;
+                }
+            }
+        }
+
+        for (int k = 0; k < 3; k++) {
+            for (int i = 3; i < 6; i++) {
+                for (int j = 0; j < 3; j++) {
+                    boolArr[21+k][sudoku[i][j+3*k]-1] = true;
+                }
+            }
+        }
+
+        for (int k = 0; k < 3; k++) {
+            for (int i = 6; i < 9; i++) {
+                for (int j = 0; j < 3; j++) {
+                    boolArr[24+k][sudoku[i][j+3*k]-1] = true;
+                }
+            }
+        }
+
+        //System.out.println(Arrays.deepToString(boolArr));
         for (int i = 0; i < 27; i++) {
             for (int j = 0; j < 9; j++) {
-                if(!boolArr[i][j]) return false;
+                if (!boolArr[i][j]) return false;
             }
 
         }
-
 
 
         return true;
