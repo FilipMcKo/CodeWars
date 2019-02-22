@@ -13,7 +13,7 @@ public class LoopInspector {
         while (!loopClosed) {
             currentNode = currentNode.getNext();
             for (int i = 0; i < nodeList.size(); i++) {
-                if (currentNode.equals(nodeList.get(i))) {
+                if (currentNode.equals(nodeList.get(i))) {                                              
                     indexOfLoopStart = i;
                     loopClosed = true;
                 }
