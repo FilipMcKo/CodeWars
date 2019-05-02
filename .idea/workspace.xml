@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62817215-529f-43cc-989b-4e40233ba460" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CodeWars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/BitWars.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/BitsBattle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/BrakingWell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/DashatizeIt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/DeafRats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/Dinglemouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/EnoughIsEnough.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/ExpandedNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/HighestScoringWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/Kata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/LoopInspector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/NextBiggerNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/NextBiggerNumberTimer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/NumberOfTrailingZerosOfNFactorized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/OddOrEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/PersistentBugger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/PigLatin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/PointsInTheCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/PrimeStreaming.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/RectangleIntoSquares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/RevRot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/RevRotTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/Scramblies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/ShortestPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/Snail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/SortTheOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/SudokuValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/SumDigPower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/UniqueNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/WeightForWeight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/Xbonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWars/ZOODisaster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWarsTest/PointsInTheCircleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWarsTest/ScrambliesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWarsTest/WeightForWeightTest.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/CodeWars/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodeWars/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CodeWars/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1814" />
+    <option name="width" value="1551" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62817215-529f-43cc-989b-4e40233ba460" name="Default Changelist" comment="" />
+      <created>1556642079279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556642079279</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="DB Browser" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="DB Execution Console" order="9" />
+      <window_info anchor="bottom" id="Statistic" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/src/CodeWars/ExpandedNumber.java" />
+    <entry file="file://$PROJECT_DIR$/src/CodeWars/BitsBattle.java" />
+    <entry file="file://$PROJECT_DIR$/CodeWars/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CodeWars</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
