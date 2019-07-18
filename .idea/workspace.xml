@@ -2,48 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62817215-529f-43cc-989b-4e40233ba460" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CodeWars.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/BitWars.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/BitsBattle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/BrakingWell.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/DashatizeIt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/DeafRats.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/Dinglemouse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/EnoughIsEnough.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/ExpandedNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/HighestScoringWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/Kata.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/LoopInspector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/NextBiggerNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/NextBiggerNumberTimer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/NumberOfTrailingZerosOfNFactorized.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/OddOrEven.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/PersistentBugger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/PigLatin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/PointsInTheCircle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/PrimeStreaming.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/RectangleIntoSquares.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/RevRot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/RevRotTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/Scramblies.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/ShortestPath.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/Snail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/SortTheOdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/SudokuValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/SumDigPower.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/UniqueNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/WeightForWeight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/Xbonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWars/ZOODisaster.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWarsTest/PointsInTheCircleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWarsTest/ScrambliesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWarsTest/WeightForWeightTest.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWars/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/CodeWars/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,17 +12,115 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/CodeWars/PascalDiagonals.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodeWars/pom.xml">
+        <entry file="file://$PROJECT_DIR$/CodeWars/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="541">
+              <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeWars/src/test/java/CodeWars/PascalDiagonalsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="31" column="75" selection-start-line="31" selection-start-column="75" selection-end-line="31" selection-end-column="75" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Comparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1600">
+              <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/CodeWars/RevRotTest.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/CodeWars/Snail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/CodeWars/EnoughIsEnough.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeWars/src/test/java/CodeWars/PointsInTheCircleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11600">
+              <caret line="613" column="22" selection-start-line="613" selection-start-column="22" selection-end-line="613" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,20 +129,36 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CodeWars/pom.xml" />
+        <option value="$PROJECT_DIR$/CodeWars/src/main/java/CodeWars/RevRotTest.java" />
+        <option value="$PROJECT_DIR$/CodeWars/src/test/java/ObservedPinTest.java" />
+        <option value="$PROJECT_DIR$/CodeWars/src/main/java/ObservedPin.java" />
+        <option value="$PROJECT_DIR$/CodeWars/src/main/java/PrimeStreaming.java" />
+        <option value="$PROJECT_DIR$/CodeWars/src/main/java/CodeWars/PrimeStreaming.java" />
+        <option value="$PROJECT_DIR$/CodeWars/src/main/java/DirectionsReduction.java" />
+        <option value="$PROJECT_DIR$/CodeWars/src/test/java/CodeWars/PascalDiagonalsTest.java" />
+        <option value="$PROJECT_DIR$/CodeWars/src/main/java/CodeWars/PascalDiagonals.java" />
+        <option value="$PROJECT_DIR$/CodeWars/.gitignore" />
       </list>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1814" />
-    <option name="width" value="1551" />
-    <option name="height" value="1047" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="2423" />
+    <option name="height" value="1310" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -93,36 +167,43 @@
               <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/CodeWars/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="CodeWars" />
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="CodeWars" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -136,6 +217,96 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.PascalDiagonalsTest.generateDiagonalTest4">
+    <configuration name="PascalDiagonals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWars.PascalDiagonals" />
+      <module name="CodeWars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeWars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PascalDiagonalsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeWars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CodeWars" />
+      <option name="MAIN_CLASS_NAME" value="CodeWars.PascalDiagonalsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PascalDiagonalsTest.generateDiagonalTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeWars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CodeWars" />
+      <option name="MAIN_CLASS_NAME" value="CodeWars.PascalDiagonalsTest" />
+      <option name="METHOD_NAME" value="generateDiagonalTest1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PascalDiagonalsTest.generateDiagonalTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeWars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CodeWars" />
+      <option name="MAIN_CLASS_NAME" value="CodeWars.PascalDiagonalsTest" />
+      <option name="METHOD_NAME" value="generateDiagonalTest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PascalDiagonalsTest.generateDiagonalTest4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeWars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CodeWars" />
+      <option name="MAIN_CLASS_NAME" value="CodeWars.PascalDiagonalsTest" />
+      <option name="METHOD_NAME" value="generateDiagonalTest4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PascalDiagonalsTest.generateDiagonalTest4" />
+        <item itemvalue="JUnit.PascalDiagonalsTest" />
+        <item itemvalue="JUnit.PascalDiagonalsTest.generateDiagonalTest1" />
+        <item itemvalue="JUnit.PascalDiagonalsTest.generateDiagonalTest2" />
+        <item itemvalue="Application.PascalDiagonals" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -146,44 +317,230 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556642079279</updated>
+      <workItem from="1563370832328" duration="5873000" />
+      <workItem from="1563445060732" duration="7198000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="PascalDiagonalsTest_generateDiagonalTest1 - 2019.07.20 at 09h 31m 52s.xml">
+      <configuration name="PascalDiagonalsTest.generateDiagonalTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PascalDiagonalsTest_generateDiagonalTest1 - 2019.07.20 at 09h 34m 35s.xml">
+      <configuration name="PascalDiagonalsTest.generateDiagonalTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PascalDiagonalsTest_generateDiagonalTest1 - 2019.07.20 at 09h 35m 03s.xml">
+      <configuration name="PascalDiagonalsTest.generateDiagonalTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PascalDiagonalsTest_generateDiagonalTest1 - 2019.07.20 at 09h 36m 59s.xml">
+      <configuration name="PascalDiagonalsTest.generateDiagonalTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PascalDiagonalsTest - 2019.07.20 at 09h 38m 49s.xml">
+      <configuration name="PascalDiagonalsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PascalDiagonalsTest_generateDiagonalTest2 - 2019.07.20 at 09h 43m 28s.xml">
+      <configuration name="PascalDiagonalsTest.generateDiagonalTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PascalDiagonalsTest_generateDiagonalTest1 - 2019.07.20 at 09h 44m 19s.xml">
+      <configuration name="PascalDiagonalsTest.generateDiagonalTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PascalDiagonalsTest - 2019.07.20 at 09h 44m 21s.xml">
+      <configuration name="PascalDiagonalsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PascalDiagonalsTest_generateDiagonalTest4 - 2019.07.20 at 09h 48m 28s.xml">
+      <configuration name="PascalDiagonalsTest.generateDiagonalTest4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PascalDiagonalsTest_generateDiagonalTest4 - 2019.07.20 at 09h 48m 53s.xml">
+      <configuration name="PascalDiagonalsTest.generateDiagonalTest4" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13071000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27680966" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="DB Browser" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.14285715" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.042432815" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.07072136" />
       <window_info anchor="bottom" id="DB Execution Console" order="9" />
       <window_info anchor="bottom" id="Statistic" order="10" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32827735" />
+      <window_info anchor="bottom" id="SQL" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Codota" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CodeWars/src/main/java/CodeWars/PascalDiagonals.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CodeWars/src/test/java/CodeWars/PascalDiagonalsTest.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/src/CodeWars/ExpandedNumber.java" />
     <entry file="file://$PROJECT_DIR$/src/CodeWars/BitsBattle.java" />
     <entry file="file://$PROJECT_DIR$/CodeWars/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1786">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/CodeWars/ObservedPin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2960">
+          <caret line="150" column="72" selection-start-line="150" selection-start-column="72" selection-end-line="150" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/CodeWars/PrimeStreaming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/src/test/java/CodeWars/ObservedPinTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="30" column="118" selection-start-line="30" selection-start-column="118" selection-end-line="30" selection-end-column="118" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/CodeWars/DirectionsReduction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/CodeWars/RevRotTest.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/CodeWars/Snail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/CodeWars/EnoughIsEnough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11600">
+          <caret line="613" column="22" selection-start-line="613" selection-start-column="22" selection-end-line="613" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/src/test/java/CodeWars/PointsInTheCircleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.2/junit-platform-commons-1.3.2-sources.jar!/org/junit/platform/commons/util/ReflectionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="534" selection-start-line="534" selection-end-line="534" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/src/test/java/CodeWars/PascalDiagonalsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="31" column="75" selection-start-line="31" selection-start-column="75" selection-end-line="31" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/CodeWars/PascalDiagonals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

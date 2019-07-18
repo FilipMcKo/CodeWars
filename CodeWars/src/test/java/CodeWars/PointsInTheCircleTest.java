@@ -1,4 +1,4 @@
-package CodeWarsTest;
+package CodeWars;
 import CodeWars.*;
 import org.junit.jupiter.api.Test;
 

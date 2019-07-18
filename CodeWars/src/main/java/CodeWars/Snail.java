@@ -1,7 +1,5 @@
 package CodeWars;
 
-import groovy.json.internal.ArrayUtils;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
