@@ -1,4 +1,4 @@
-package CodeWarsTest;
+package CodeWars;
 
 import CodeWars.WeightForWeight;
 import org.junit.Test;
