@@ -36,7 +36,11 @@ public class PascalDiagonals {
             }
             fillWithZeros(i + 1, temp);
             matrix[i] = temp;
+<<<<<<< HEAD
          }
+=======
+        }
+>>>>>>> 96bcad1700cb5e8e6a8519d8503dea884a7531d7
     }
 
     private static void fillWithZeros(int col, long[] array) {
