@@ -14,7 +14,7 @@ public enum Rank {
     MASTER("Master"),
     GREATEST("Greatest");
 
-    private String description;
+    String description;
 
     Rank(String description) {
         this.description = description;
