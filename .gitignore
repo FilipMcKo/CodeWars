@@ -7,8 +7,7 @@
 *.war
 *.ear
 hs_err_pid*
-CoordinatesConverter.java
-MmcMessage.java
+src/main/java/com/mucko/filip/codewars/TdaTools
 
 ##########################
 ## Maven
